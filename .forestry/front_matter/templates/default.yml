@@ -18,4 +18,5 @@ fields:
   label: paragraph
   description: paragraph
 pages:
+- _posts/hi-world.md
 - test.md
