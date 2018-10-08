@@ -17,6 +17,10 @@ fields:
   name: paragraph
   label: paragraph
   description: paragraph
+- type: blocks
+  name: block1
+  label: block1
+  description: block
 pages:
 - _posts/2018-10-08-hi-world.md
 - test.md
