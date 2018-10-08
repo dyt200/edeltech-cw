@@ -17,3 +17,5 @@ fields:
   name: paragraph
   label: paragraph
   description: paragraph
+pages:
+- test.md
