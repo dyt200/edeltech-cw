@@ -18,5 +18,5 @@ fields:
   label: paragraph
   description: paragraph
 pages:
-- _posts/hi-world.md
+- _posts/2018-10-08-hi-world.md
 - test.md
